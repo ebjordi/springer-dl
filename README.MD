@@ -1,4 +1,4 @@
-An overcomplicated notebook to select categories of bokk and download them.
+#An overcomplicated notebook to select categories of bokk and download them.
 
 ###To use it install the env with
 
