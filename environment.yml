@@ -1,0 +1,15 @@
+name: springer
+
+channels:
+ - conda-forge
+
+dependencies:
+ - python=3.7
+ - pandas=1.0
+ - requests=2.23
+ - lxml=4.5
+ - python-wget=3.2
+ - jmcmurray-os=0.1.4
+ - ipywidgets
+ - nodejs
+ 
