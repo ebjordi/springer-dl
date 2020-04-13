@@ -1,6 +1,6 @@
 An overcomplicated notebook to select categories of bokk and download them.
 
-###To use it install the env with###
+###To use it install the env with
 
 `conda env create -f environment.yml`
 
